@@ -1,0 +1,24 @@
+This is my ludum dare compo Entery.
+
+Roket!
+
+You play as a contractor hired out by walmart to
+destroy hospitals and orphanages for 'developing'.
+
+The controls are 
+
+A - D to move camara;
+
+E - Q to rotate Launcher.
+
+R to place a rocket - you only have a limited supply!
+
+F to launch all the unlaunched rockets.
+
+Dragers - these you drag up and down.
+
+The thrust is speed of acceleration.
+The Fuel is how long it accelerates for.
+The Ceiling is the leval that the rocket starts spining from.
+
+The aim of the game is to get all the bricks below a certain height.
